@@ -1,0 +1,53 @@
+﻿{
+  "NewContact": [
+    {
+      "listSpecific": "",
+      "firstName": "Test",
+      "middleName": "Contact",
+      "lastName": "Autotests",
+      "companyName": "Harper",
+      "jobTitle": "Verification",
+      "showName": "ATContact",
+      "topics": "First,Second",
+      "markets": "1 - First",
+      "mediaType": "Bookstore",
+      "companyWebsite": "testcompany@test.com",
+      "language": "English",
+      "national": false,
+      "email": "test@test.com",
+      "mobile": "+022-456-7898",
+      "office": "+123-456-7898",
+      "addressType": "Home",
+      "primary": true,
+      "poBox": "1234",
+      "country": "USA",
+      "state": "Alabama",
+      "city": "Daphne",
+      "street": "Park Dr",
+      "appartment": "15",
+      "zip": "36526",
+      "reasonOfReturnedPackages": "3 attempts to deliver",
+      "facebook": "https://www.facebook.com/business/pages/",
+      "instagram": "https://www.instagram.com/instagram/",
+      "twitter": "https://twitter.com/newpages?lang=en/",
+      "linkedIn": "https://www.linkedin.com/company/linkedinbusinesspage/",
+      "youTube": "https://www.youtube.com/",
+      "pitchingProfile": "profile info",
+      "comment": "some comment text"
+    }
+  ],
+  "AdditionalAddress": [
+    {
+      "addressType": "Business",
+      "primary": true,
+      "poBox": "56987",
+      "country": "USA",
+      "state": "Alaska",
+      "city": "Sitka",
+      "street": "Lincoln St",
+      "appartment": "338",
+      "zip": "99835",
+      "reasonOfReturnedPackages": "Moved"
+    }
+  ]
+}
